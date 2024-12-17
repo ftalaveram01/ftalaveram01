@@ -28,10 +28,58 @@
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRrmRQVHPcTWhMmDlQlZBLxJdSFGTmWcWzQGshDwnrCNLfVMdGwkqjKfsNjhWmrNSJqLBHB"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ftalaveram01&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ftalaveram01&label=Profile%20views&color=0e75b6&style=flat" alt="ftalaveram01" /> </p>
 
 ------
+<h3 align="left"> GitHub Stats:</h3>
 
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ftalaveram01&theme=tokyonight_duo" alt="ftalaveram01" /></p>
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="ftalaveram01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ftalaveram01&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ftalaveram01&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ftalaveram01" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftalaveram01&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="ftalaveram01" /></a> </p>
+	
+</details>
+	
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	  <a href="https://github.com/ftalaveram01/restaurantes-caceres">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftalaveram01&repo=restaurantes-caceres&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+	  <a href="https://github.com/ftalaveram01/ftalaveram01.github.io">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftalaveram01&repo=ftalaveram01.github.io&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+</details>
+
+------
 
 [ftalaveram01](https://github.com/ftalaveram01)
 
