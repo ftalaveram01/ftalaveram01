@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRrmRQVHPcTWhMmDlQlZBLxJdSFGTmWcWzQGshDwnrCNLfVMdGwkqjKfsNjhWmrNSJqLBHB"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://mail.google.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ftalaveram01&label=Profile%20views&color=0e75b6&style=flat" alt="ftalaveram01" /> </p>
