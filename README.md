@@ -69,11 +69,14 @@
 	
 <div>
   <p align="center">
-	  <a href="https://github.com/ftalaveram01/restaurantes-caceres">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftalaveram01&repo=restaurantes-caceres&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/ftalaveram01/restaurantes-caceres">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftalaveram01&repo=restaurantes-caceres&theme=tokyonight" alt="Repositorio de Restaurantes Caceres" />
     </a>
-	  <a href="https://github.com/ftalaveram01/ftalaveram01.github.io">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftalaveram01&repo=ftalaveram01.github.io&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/ftalaveram01/ftalaveram01.github.io">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftalaveram01&repo=ftalaveram01.github.io&theme=tokyonight" alt="Repositorio de portfolio" />
+    </a>
+    <a href="https://github.com/ftalaveram01/habitos-web">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftalaveram01&repo=habitos-web&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
 </div>
