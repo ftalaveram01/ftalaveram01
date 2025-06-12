@@ -76,7 +76,10 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftalaveram01&repo=ftalaveram01.github.io&theme=tokyonight" alt="Repositorio de portfolio" />
     </a>
     <a href="https://github.com/ftalaveram01/habitos-web">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftalaveram01&repo=habitos-web&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftalaveram01&repo=habitos-web&theme=tokyonight" alt="Repositorio de Habbbits WEB" />
+    </a>
+    <a href="https://github.com/ftalaveram01/habitos-android">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftalaveram01&repo=habitos-android&theme=tokyonight" alt="Repositorio de Habbbits Android" />
     </a>
   </p>
 </div>
