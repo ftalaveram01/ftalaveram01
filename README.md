@@ -24,7 +24,7 @@
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/fernando-talavera-mostazo-986297279/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/fernando-talavera-mostazo-986297279/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://mail.google.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 <br>
